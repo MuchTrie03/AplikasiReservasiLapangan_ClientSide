@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "473368844327",
+    "project_id": "uas-pemrograman-mobile-ed86e",
+    "storage_bucket": "uas-pemrograman-mobile-ed86e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473368844327:android:a10c71e8285a129d2b1602",
+        "android_client_info": {
+          "package_name": "com.example.kuts_ai_user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcr0Jxh6NrZdiZu8Sn7gipZZzIJ31GjYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473368844327:android:5cb6438c23c1680c2b1602",
+        "android_client_info": {
+          "package_name": "com.uas.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcr0Jxh6NrZdiZu8Sn7gipZZzIJ31GjYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473368844327:android:75ae5c39bde2acf52b1602",
+        "android_client_info": {
+          "package_name": "com.uas.app.kuts_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcr0Jxh6NrZdiZu8Sn7gipZZzIJ31GjYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
